@@ -40,7 +40,7 @@ const Home = () => {
       <Tr>
         <Th>Nome</Th>
         <Th>Carboidratos</Th>
-        <Th>Gorduras Totails</Th>
+        <Th>Gorduras Totais</Th>
         <Th>Proteina</Th>
         <Th>Açucar</Th>
       </Tr>
