@@ -1,1 +1,1 @@
-export const BASE_URL = "https://www.fruityvice.com/api/fruit"
+export const BASE_URL = "https://api.allorigins.win/raw?url=https://www.fruityvice.com/api/fruit"

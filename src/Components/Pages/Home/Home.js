@@ -17,8 +17,14 @@ const Home = () => {
     }, [])
 
     const allFruits = () => {
-        axios.get(`${BASE_URL}/all`)
+
+        axios.get(`${BASE_URL}/all`, {
+          headers: {
+
+          }
+        })
         .then((res) => {
+          
             setFruits(res.data)
         })
         .catch((erro) => {
