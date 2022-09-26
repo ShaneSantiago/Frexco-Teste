@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 <h2 id="site">:earth_americas: Link do site </h2>
-<p>🔗 <a href="http://uneven-interest.surge.sh//" target="_blank"> Frexco </a>  </p>
+<p>🔗 <a href="http://uneven-interest.surge.sh//" target="_blank"> Frexco </a> </p>
 <!-- <a href="http://uneven-interest.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 ### `npm start`
